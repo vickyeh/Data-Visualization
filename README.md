@@ -1,4 +1,4 @@
-#Data Visualization
+# Data Visualization
 
 It is a course in CSE at University of Washington. In this class, we learn to use Observable Notebook to visualize and 
 illustrate the cardiovascular system of the human body and the different heart problems associated with it. 
